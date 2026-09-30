@@ -1,0 +1,27 @@
+name,email,country,status,signup_year
+Alice Johnson,Alice@Example.COM,United States,Active,2021
+Bob Smith,bob@gmail.com,United States,active,2019
+Carlos García,carlos@domain.de,Germany,inactive,2020
+Diana Lee,diana@korea.kr,India,Active,2022
+Eve Martinez,not-an-email,Mexico,active,2021
+Frank Brown,frank@brown.uk,United Kingdom,ACTIVE,2018
+Grace Kim,grace@email.com,India,inactive,2020
+Henry Wilson,henry@company.com,United States,active,2019
+Isabel Cruz,isabel@cruz.mx,India,Active,2021
+Jack Taylor,jack@taylor.au,Australia,active,2020
+Kira Nguyen,kira@vn.com,India,inactive,N/A
+Laura Chen,Laura.Chen@GMAIL.COM,United States,Active,2022
+Mike Davis,mike@davis.com,United States,active,2020
+Nina Patel,nina@india.in,Germany,Active,2021
+Oscar Brown,oscar@brown.de,Germany,active,2019
+Paula Scott,paula@scott.ca,France,inactive,2020
+Quinn Adams,noemail,United States,active,2022
+Rachel Green,rachel@green.us,United States,Active,2018
+Sam Taylor,sam@taylor.uk,United Kingdom,inactive,abc
+Tina Moore,tina@moore.com,United States,active,2021
+Uma Patel,uma@patel.in,India,Active,2020
+Victor Hugo,victor@hugo.fr,France,active,2019
+Wendy Clark,WENDY@CLARK.COM,United States,inactive,2021
+Xander Reed,xander@reed.au,Australia,active,2022
+Yuki Tanaka,yuki@tanaka.jp,United Kingdom,active,2020
+Zoe Williams,zoe@williams.com,United Kingdom,active,2020
